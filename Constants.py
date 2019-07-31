@@ -1,0 +1,14 @@
+working_directory = "workspace/"
+image_directory = "reduced_images/"
+fits_extension = ".fit"
+reduced_prefix = "r_"
+catalogue_prefix = "catalogue_"
+standard_file_extension = ".txt"
+table_format = "ascii"
+time_file = "times" + standard_file_extension
+shift_file = "shifts" + standard_file_extension
+flux_directory = "fluxes/"
+light_curve_directory = "light_curves/"
+flux_prefix = "fluxes_"
+identifier = "id"
+id_map_file = "id_mapping" + standard_file_extension
